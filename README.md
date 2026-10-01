@@ -1,5 +1,7 @@
 # Vim 多巴闯关
 
+**在线玩：<https://vim-dopa.vercel.app>**
+
 用真实 Vim 按键闯关的浏览器小游戏。每一关是一个小编辑任务：把光标移到目标位置，或把文本改成目标的样子。按对一步，音乐多一层，画面更热闹。没有 Game Over，卡住了随时看提示。
 
 玩法和演出节奏参考了 [grmchn/dopa-drill](https://github.com/grmchn/dopa-drill)（算数版的“越解越嗨”计算练习）。本项目的代码、关卡和角色都是独立编写的。
